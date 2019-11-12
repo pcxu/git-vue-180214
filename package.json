@@ -1,8 +1,8 @@
 {
-  "name": "vue-0214",
+  "name": "git-vue-180214",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "pcxu <PCxu3207>",
+  "description": "A Vue.js api learning project",
+  "author": "pcxu",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
